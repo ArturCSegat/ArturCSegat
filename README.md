@@ -1,4 +1,4 @@
-Hey I Artur
+Hey I'm Artur
 
 coding since 2020
 
