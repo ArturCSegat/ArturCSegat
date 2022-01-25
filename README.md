@@ -1,5 +1,5 @@
-Hey im epicLord
+Hey I Artur
 
-I dont have any idea how to use github
+coding since 2020
 
-But i sound veru cool so yeah
+going well so far(kinda)
