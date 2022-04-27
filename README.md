@@ -8,15 +8,15 @@ Meu nome é Artur Camera Segat, nasci em Passo Fundo RS e moro em Santa Maria, e
  
  - Tocar Guitarra🎸
  - Jogar VideoGames🕹️ 
- - Sair com amigos
+ - Sair com amigos🎞
 
 ## Aspirações profissionais💼
 
 Objetivos de carreira não nescessariamente em ordem:
 
-- Estágio🧑‍🏭
-- Diploma em computação🎓
-- Emprego(preferencialente no exterior e  remoto)💵
+- Estágio👨‍💻
+- Graduação em computação🎓
+- Emprego (preferencialente no exterior e  remoto)💵
 
 ## Contato📢
 
