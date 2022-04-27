@@ -21,13 +21,13 @@ Objetivos de carreira sem ordem necessária:
 ## Contato📢
 
 - Email - <arturcamerasegat@gmail.com>
-- Instagram - @artur_c_segat
+- Instagram - [@artur_c_segat](https://www.instagram.com/artur_c_segat/)
 
 ## Projetos Passados⚙️
 
 Alguns projetos...
 
-- Bot de adminstração de discord  <https://github.com/ArturCSegat/PeConcoBot-V2.0/> (feito com python e discord.py) 2020 -2021
-- Tentativa de recriar a plataforma do meu colégio ( abandonado no meio) <https://github.com/ArturCSegat/PlataCopia> (feito com python, mysql, sqlalchemy, flask e bootstrap css) 2021
-- Recriação do jogo 21 em forma de texto <https://github.com/ArturCSegat/BlackJackC> (feito em C) 2022
-- Site com uma calculadora Repo: <https://github.com/ArturCSegat/CalcReact> site: <https://calc-site.herokuapp.com> (feito com react js e tailwind css) 2022
+- Bot de adminstração de discord: [repo](https://github.com/ArturCSegat/PeConcoBot-V2.0), feito com python e discord.py em 2020 -2021
+- Tentativa de recriar a plataforma do meu colégio ( abandonado no meio): [repo](https://github.com/ArturCSegat/PlataCopia),feito com python, mysql, sqlalchemy, flask e bootstrap css em 2021
+- Recriação do jogo 21 em forma de texto: [repo](https://github.com/ArturCSegat/BlackJackC), feito com C em 2022
+- Site com uma calculadora: [repo] (https://github.com/ArturCSegat/CalcReact> site: <https://calc-site.herokuapp.com), feito com react js e tailwind css em 2022
