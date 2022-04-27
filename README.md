@@ -1,6 +1,6 @@
 # Sobre mim🙋‍♂️
  
-Meu nome é Artur Camera Segat, nasci em Passo Fundo RS e moro em Santa Maria, estou no primeiro ano do curso de Informatica para Internet do Colégio Técnico Industrial de Santa Maria(CTISM) na Universidade Federal de Santa Maria(UFSM).
+Meu nome é Artur Camera Segat, nasci em Passo Fundo RS e moro em Santa Maria, estou cursabdo o primeiro ano do curso de Informatica para Internet do Colégio Técnico Industrial de Santa Maria(CTISM) na Universidade Federal de Santa Maria(UFSM).
  
  ## Hobbies🖌️
  
@@ -12,7 +12,7 @@ Meu nome é Artur Camera Segat, nasci em Passo Fundo RS e moro em Santa Maria, e
 
 ## Aspirações profissionais💼
 
-Objetivos de carreira sem ordem necessária:
+Objetivos de carreira não nescessariamente em ordem:
 
 - Estágio🧑‍🏭
 - Diploma em computação🎓
