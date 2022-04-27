@@ -20,8 +20,8 @@ Objetivos de carreira não nescessariamente em ordem:
 
 ## Contato📢
 
-- Email - <arturcamerasegat@gmail.com>
-- Instagram - [@artur_c_segat](https://www.instagram.com/artur_c_segat/)
+- Email - <arturcamerasegat@gmail.com>✉
+- Instagram - [@artur_c_segat](https://www.instagram.com/artur_c_segat/)📷
 
 ## Projetos Passados⚙️
 
