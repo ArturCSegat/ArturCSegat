@@ -10,14 +10,6 @@ Meu nome é Artur Camera Segat, nasci em Passo Fundo RS e moro em Santa Maria, e
  - Jogar VideoGames🕹️ 
  - Sair com amigos🎞️
 
-# Aspirações profissionais💼
-
-Objetivos de carreira não nescessariamente em ordem:
-
-- Estágio👨‍💻
-- Graduação em computação🎓
-- Emprego (preferencialente no exterior e  remoto)💵
-
 # Contato📢
 
 - Email - <arturcamerasegat@gmail.com>✉
