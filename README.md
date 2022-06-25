@@ -23,4 +23,4 @@ Alguns projetos...
 - Tentativa de recriar a plataforma do meu colégio ( abandonado no meio): [repo do projeto](https://github.com/ArturCSegat/PlataCopia), feito com python, mysql, sqlalchemy, flask e bootstrap css em 2021.
 - Recriação do jogo 21 em forma de texto: [repo do projeto](https://github.com/ArturCSegat/BlackJackC), feito com C em 2022.
 - Site com uma calculadora: [repo do projeto](https://github.com/ArturCSegat/CalcReact) - [site possivelmente funcional](https://calc-site.herokuapp.com), feito com react js e tailwind css em 2022.
-- Jogo da Velha: [repo do projeto](https://github.com/ArturCSegat/JogoDaVelhaC), feito em C em 2022
+- Jogo da Velha: [repo do projeto](https://github.com/ArturCSegat/JogaDaVelhaC)), feito em C em 2022
