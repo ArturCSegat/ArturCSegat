@@ -1,5 +1,3 @@
-# Sobre mim
- 
 Artur Camera Segat de Passo Fundo, morando em Santa Maria
 CTISM-UFSM
 # Contato
