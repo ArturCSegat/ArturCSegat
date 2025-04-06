@@ -1,5 +1,4 @@
-Artur Camera Segat de Passo Fundo, morando em Santa Maria
-CTISM-UFSM
+Artur Camera Segat de Passo Fundo, morando em Santa Maria UFSM
 # Contato
 
 - Email - <arturcamerasegat@gmail.com>✉
